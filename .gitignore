@@ -1,0 +1,22 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+
+## Rider
+.idea/
+
+## Variables de entorno
+.env
+
+## User Secrets
+secrets.json
+
+## Logs
+*.log
+
+## OS
+.DS_Store
+Thumbs.db
